@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/AAP.Api/AAP.Api.csproj" />
+    <Project Path="src/AAP.Application/AAP.Application.csproj" />
+    <Project Path="src/AAP.Domain/AAP.Domain.csproj" />
+    <Project Path="src/AAP.Infrastructure/AAP.Infrastructure.csproj" />
+    <Project Path="src/AAP.Tests/AAP.Tests.csproj" Id="2127772e-8964-4f20-8a53-eb8519cd567e" />
+  </Folder>
+</Solution>
